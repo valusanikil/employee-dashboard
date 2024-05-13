@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+.navbar {
+  background-color: #350897;
+  padding-left: 40px;
+}
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+}
+.navbar-nav .nav-item {
+  margin: 10px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  padding-top: 20px;
+  width: 100%;
+  height: 70px;
+  background-color: #350897;
+  text-align: center;
+  color: white;
+}
