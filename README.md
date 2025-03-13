@@ -20,14 +20,6 @@ This project is a backend service for an Employee Management System with CRUD op
 # home page
 <img src="assets/Screenshot 2025-03-13 014433.png" alt="">
 
-# update employee
-<img src="assets/Screenshot 2025-03-13 014451.png" alt="">
-
-# employee details
-<img src="assets/Screenshot 2025-03-13 014505.png" alt="">
-
-
----
 
 ## 🚀 **2. Technologies Used**
 | Technology | Description |
@@ -39,7 +31,12 @@ This project is a backend service for an Employee Management System with CRUD op
 | **MySQL** | Relational database |
 | **Maven** | Build and dependency management |
 
----
+# update employee
+<img src="assets/Screenshot 2025-03-13 014451.png" alt="">
+
+# employee details
+<img src="assets/Screenshot 2025-03-13 014505.png" alt="">
+
 
 ## 🛠️ **3. Setup Instructions**
 ### **Clone the repository**:
