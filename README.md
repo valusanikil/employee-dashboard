@@ -18,7 +18,14 @@ This is a Spring Boot backend project for managing employee records. It provides
 This project is a backend service for an Employee Management System with CRUD operations, database persistence, and exception handling.
 
 # home page
-<img>
+<img src="assets/Screenshot 2025-03-13 014433.png" alt="">
+
+# update employee
+<img src="assets/Screenshot 2025-03-13 014451.png" alt="">
+
+# employee details
+<img src="assets/Screenshot 2025-03-13 014505.png" alt="">
+
 
 ---
 
